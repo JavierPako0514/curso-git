@@ -1,0 +1,98 @@
+commit 34109117177e656838a4b60468f89f88fcc1d9b8
+Author: Francisco Zaragoza <sanzpako2@gmail.com>
+Date:   Mon Mar 4 17:38:26 2024 -0600
+
+    Agregando 2 parrafos
+
+commit efa687a052f5552a74b12605839ad894c74bd17d
+Merge: 2c98446 d97034d
+Author: Francisco Zaragoza <sanzpako2@gmail.com>
+Date:   Mon Mar 4 17:36:28 2024 -0600
+
+    Resolviendo conflicto en estadiones del año y fecha de inicio
+
+commit 2c9844676cda7a9ba6ba33c9c10c2a877ef3761f
+Author: Francisco Zaragoza <sanzpako2@gmail.com>
+Date:   Mon Mar 4 17:19:51 2024 -0600
+
+    Agregando estaciones del año con fecha de inicio
+
+commit d97034ddae53ad6fd11898495ccc4341425cf125
+Author: Francisco Zaragoza <sanzpako2@gmail.com>
+Date:   Mon Mar 4 17:19:51 2024 -0600
+
+    Agregando las estaciones del año
+
+commit 6f7a2f26fb9b947b93be70af8c52245de33a70e8
+Merge: 412d202 ef647e7
+Author: Francisco Zaragoza <sanzpako2@gmail.com>
+Date:   Mon Mar 4 13:48:56 2024 -0600
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit ef647e75a5db6f2cda6616f4377b7443319fa26b
+Author: Francisco Zaragoza <sanzpako2@gmail.com>
+Date:   Mon Mar 4 13:41:33 2024 -0600
+
+    Agregando index.js al index.html
+
+commit 412d202f29e2fe2572e14d827f20971f4c4c389c
+Author: Francisco Zaragoza <sanzpako2@gmail.com>
+Date:   Mon Mar 4 13:39:25 2024 -0600
+
+    Agregando style.css al index.html
+
+commit e1edbf98d1f450f0c0ee5ae42f8db18cee915151
+Merge: c774530 1d804a7
+Author: Francisco Zaragoza <sanzpako2@gmail.com>
+Date:   Mon Mar 4 13:24:49 2024 -0600
+
+    Merge branch 'js'
+
+commit 1d804a7dd016ef63d4e6b767c940f98d7dbd5ba6
+Author: Francisco Zaragoza <sanzpako2@gmail.com>
+Date:   Mon Mar 4 13:15:55 2024 -0600
+
+    Creando index.js
+
+commit c774530278b761988e512c607aa75ce66f011621
+Author: Francisco Zaragoza <sanzpako2@gmail.com>
+Date:   Mon Mar 4 13:09:42 2024 -0600
+
+    Creando style.css
+
+commit 1be3cfa619af6c63fdcc41361a3b93247b26e1cc
+Author: Francisco Zaragoza <sanzpako2@gmail.com>
+Date:   Mon Mar 4 13:05:05 2024 -0600
+
+    Creando index.html
+
+commit b7f2f5d4efb36fe204503a864aed06a37dea1cef
+Author: Francisco Zaragoza <sanzpako2@gmail.com>
+Date:   Sat Mar 2 18:01:04 2024 -0600
+
+    Ignorando los archivos .exe
+
+commit 537176b69ccc7f01117d7d01ede37cb9c9944c94
+Author: Francisco Zaragoza <141098885+JavierPako0514@users.noreply.github.com>
+Date:   Sat Mar 2 14:39:41 2024 -0600
+
+    Creando licencia del repositorio
+
+commit b05b3be44e0fcd56db3712480538d878bff22dff
+Author: Francisco Zaragoza <sanzpako2@gmail.com>
+Date:   Sat Mar 2 13:49:28 2024 -0600
+
+    Agregando mas contenido al README
+
+commit 6ba2bc0cbb57fb4c33f01e9b03fa6bb0d9c69df3
+Author: Francisco Zaragoza <sanzpako2@gmail.com>
+Date:   Sat Mar 2 13:35:17 2024 -0600
+
+    Agregando contenido inicial al README
+
+commit bd706d626e834aaf5fde3644e1e75be328ad3769
+Author: Francisco Zaragoza <sanzpako2@gmail.com>
+Date:   Sat Mar 2 13:28:46 2024 -0600
+
+    Primer Commit
